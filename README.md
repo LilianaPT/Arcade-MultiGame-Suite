@@ -16,7 +16,7 @@ A high-performance C++ console application featuring three classic arcade games.
 ## 📸 Gameplay Manual
 
 ### 1. Car Racing Arcade
-![Car Racing Gameplay] <img width="1154" height="1067" alt="Screenshot 2026-04-27 193054" src="https://github.com/user-attachments/assets/d4a6c713-513a-477f-b524-b3d4c12daf35" />
+![Car Racing Gameplay]( <img width="1154" height="1067" alt="Screenshot 2026-04-27 193054" src="https://github.com/user-attachments/assets/d4a6c713-513a-477f-b524-b3d4c12daf35" /> )
 
 * **Objective:** Survive as long as possible by avoiding the 'X' obstacles.
 * **Controls:** `A` to move Left, `D` to move Right.
