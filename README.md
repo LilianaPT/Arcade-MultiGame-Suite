@@ -16,20 +16,20 @@ A high-performance C++ console application featuring three classic arcade games.
 ## 📸 Gameplay Manual
 
 ### 1. Car Racing Arcade
-![Car Racing Gameplay](<img width="1154" height="1067" alt="Screenshot 2026-04-27 193054" src="https://github.com/user-attachments/assets/d4a6c713-513a-477f-b524-b3d4c12daf35" />)
+![Car Racing Gameplay] <img width="1154" height="1067" alt="Screenshot 2026-04-27 193054" src="https://github.com/user-attachments/assets/d4a6c713-513a-477f-b524-b3d4c12daf35" />
 
 * **Objective:** Survive as long as possible by avoiding the 'X' obstacles.
 * **Controls:** `A` to move Left, `D` to move Right.
 * **Mechanic:** The game speed increases every 200 points.
 
 ### 2. Snake Arcade
-![Snake Gameplay](<img width="896" height="748" alt="Screenshot 2026-04-27 192853" src="https://github.com/user-attachments/assets/2914ed66-a34e-45fa-9143-c6166632458c" />)
+![Snake Gameplay] <img width="896" height="748" alt="Screenshot 2026-04-27 192853" src="https://github.com/user-attachments/assets/2914ed66-a34e-45fa-9143-c6166632458c" />
 * **Objective:** Eat the fruit to grow your tail without hitting the walls or yourself.
 * **Controls:** `W`, `A`, `S`, `D` for directional movement.
 * **Mechanic:** Uses `std::vector` to track tail coordinates dynamically.
 
 ### 3. Tic Tac Toe
-![Tic Tac Toe Gameplay](<img width="580" height="568" alt="Screenshot 2026-04-27 192944" src="https://github.com/user-attachments/assets/1cdbc26e-b0e8-4709-8d58-e5465735dce4" />)
+![Tic Tac Toe Gameplay] <img width="580" height="568" alt="Screenshot 2026-04-27 192944" src="https://github.com/user-attachments/assets/1cdbc26e-b0e8-4709-8d58-e5465735dce4" />
 * **Objective:** Get three in a row against a friend or the system.
 * **Controls:** Numeric keypad (1-9) to select your square.
 
