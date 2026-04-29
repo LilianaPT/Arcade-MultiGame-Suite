@@ -1,5 +1,9 @@
 *.exe
 *.obj
+*.slnx
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
 .vs/
 x64/
 Debug/
